@@ -1,4 +1,4 @@
-# Finance
+# Derivatives
 Programs made when studying Econmics and Finance while being in Repsol Trading
 
 1.- Binomial tree
